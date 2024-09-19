@@ -1,0 +1,155 @@
+      
+         
+[
+{
+         "id":1,
+        "bikename" : "Hero Splendor Plus",
+        "Gear" : 4,
+         "Story" : "The Hero Splendor is an entry level motorcycle manufactured in India by Hero Honda. After Separation of Joint venture of Hero Honda, Now it is manufactured by Hero MotoCorp.",
+        "Mileage" : "80.6 kmpl",
+        "Rating": 3.5,
+        "poster" : "./bike_images/1.jpg"
+
+},
+{
+        "id": 2,
+        "bikename" : "Honda Shine", 
+        "Gear" : 5,
+         "Story"  :  "The Honda Shine is a 125cc motorcycle developed by Honda Motorcycle & Scooter India (HMSI) and Bangladesh Honda Private Limited (BHL), first introduced in India in 2006.",
+        "Mileage" : "55kmpl", 
+        "Rating" : 3,
+        "poster" : "./bike_images/2.jpg"
+},
+{
+         "id":3,
+        "bikename" : "Bajaj Pulsar 150",
+        "Gear" : 5,
+        "About" : "The Bajaj Pulsar is a range of motorcycles manufactured by Bajaj Auto in India. It was developed by the product engineering division of Bajaj Auto in association with Tokyo R&D,[1] and later with motorcycle designer Glynn Kerr.",
+        "Mileage" : "50kmpl",
+        "Rating": 4.5,
+        "poster" : "./bike_images/3.jpg"
+
+},
+{
+        "id": 4,
+        "bikename" : "Royal Enfield Bullet 350", 
+        "Gear" : 5,
+        "About"   : "The Royal Enfield Bullet was an overhead valve, single-cylinder, four-stroke motorcycle initially made by Royal Enfield in Redditch, Worcestershire England. It was later produced by Royal Enfield (India) at Chennai, Tamil Nadu, India.",
+        "Mileage" : "37kmpl", 
+        "Rating" : 5,
+        "poster" : "./bike_images/4.jpg"
+},
+{
+         "id":5,
+        "bikename" : "Bajaj Discover 125",
+        "Gear" : 5,
+         "About" : "The Bajaj Discover is a line of commuter motorcycles manufactured by Bajaj Auto. The bike, initially launched in the year 2004.",
+        "Mileage" : "82.4kmpl",
+        "Rating": 3,
+        "poster" : "./bike_images/5.jpg"
+
+},
+{
+        "id": 6,
+        "bikename" : "Bajaj Pulsar RS200", 
+        "Gear" : 6,
+         "About"  : "The Bajaj Pulsar is a range of motorcycles manufactured by Bajaj Auto in India. It was developed by the product engineering division of Bajaj Auto in association with Tokyo R&D,[1] and later with motorcycle designer Glynn Kerr.",
+        "Mileage" : "35kmpl", 
+        "Rating" : 5,
+        "poster" : "./bike_images/6.jpg"
+},
+{
+         "id":7,
+        "bikename" : "Yamaha R15 V4",
+        "Gear" : 6,
+         "Story" : "The YZF-R15 v4.0 was introduced in India on 21 September 2021. The flagship variant called YZF-R15M is also available.  The R15 V4 features Traction Control(TCR) and Quick-shifter though the R15 V3 doesn't. The Yamaha R15 V4 sits on the Deltabox frame, a design that is based on technologies garnered from the YZR500 GP competition machines.",
+        "Mileage" : "55.20kmpl",
+        "Rating": 4.5,
+        "poster" : "./bike_images/7.jpg"
+
+},
+{
+        "id": 8,
+        "bikename" : " Bajaj Pulsar NS200", 
+        "Gear" : 6,
+        "About"   : "The Bajaj Pulsar NS200, previously known as Bajaj Pulsar 200NS, is a sports bike made by Indian motorcycle manufacturer Bajaj Auto. NS stands for Naked Sports.",
+        "Mileage" : "40.36kmpl", 
+        "Rating" : 4.5,
+        "poster" : "./bike_images/8.jpg"
+},
+{
+         "id":9,
+        "bikename" : "Bajaj Platina",
+        "Gear" : 4,
+        "About" : "Bajaj Platina is a 100cc motorcycle manufactured by Bajaj Auto. The Platina was launched in April 2006 at an ex-showroom price of Rs 35,000[1] and crossed sales of 500,000 units within eight months of its launch.",
+        "Mileage" : "70kmpl",
+        "Rating": 4,
+        "poster" : "./bike_images/9.jpg"
+
+},
+{
+        "id": 10,
+        "bikename" : "TVS Star City Plus", 
+        "Gear" : 4,
+         "About"  : "TVS Motor Company (commonly known as TVS) is an Indian multinational motorcycle manufacturer headquartered in Chennai. It is the third-largest motorcycle company in India by revenue.",
+        "Mileage" : "83.09kmpl", 
+        "Rating" : 3.5,
+        "poster" : "./bike_images/10.jpg"
+},
+{
+         "id":11,
+        "bikename" : "TVS Apache RTR 160",
+        "Gear" : 5,
+        "About" : "The TVS Apache (/əˈpætʃi/ ə-PATCH-ee) is a brand of motorcycle made by TVS Motors since 2006. As of 2020, more than 4 million Apaches are on the road.",
+        "Mileage" : "48kmpl",
+        "Rating": 4 ,
+        "poster" : "./bike_images/11.jpg"
+
+},
+{
+        "id": 12,
+        "bikename" : "Honda Unicorn", 
+        "Gear" : 5,
+        "About"  : "The Honda Unicorn is a motorcycle developed by Honda Motorcycle & Scooter India (HMSI) and introduced in 2004.[3] It was internally called the CBF150M.",
+        "Mileage" : "60kmpl", 
+        "Rating" : 4,
+        "poster" : "./bike_images/12.jpg"
+},
+{
+         "id":13,
+        "bikename" : "Bajaj CT 100",
+        "Gear" : 4,
+         "About"  : "The Bajaj CT 100 is a 100 cc commuter motorcycle built by Bajaj Auto. It is the entry level commuter motorcycle offered by Bajaj Auto.",
+        "Mileage" : "80.6kmpl",
+        "Rating":2.5,
+        "poster" : "./bike_images/13.jpg"
+
+},
+{
+        "id": 14,
+        "bikename" : "Yamaha RX 100", 
+        "Gear" : 5,
+        "About"  : "The Yamaha RX 100 was a two-stroke motorcycle made by Yamaha from 1985 to 1996 with technical collaboration and distributed in India by the Escorts Group.",
+        "Mileage" : "40kmpl", 
+        "Rating" : 4,
+        "poster" : "./bike_images/14.jpg"
+},{
+         "id":15,
+        "bikename" : "TVS raider 125",
+        "Gear" : 5,
+         "About" : "TVS Motor Company (commonly known as TVS) is an Indian multinational motorcycle manufacturer headquartered in Chennai. It is the third-largest motorcycle company in India by revenue.",
+        "Mileage" : "71.94kmpl",
+        "Rating":3,
+        "poster" : "./bike_images/15.jpg"
+
+},
+{
+        "id": 16,
+        "bikename" : "KTM Duke 200",
+        "Gear" : 6,
+        "About"  : "The KTM 200 Duke is a 199.5 cc (12.17 cu in) single-cylinder standard motorcycle made by KTM since 2012.[1] It has a four-stroke, spark-ignition liquid-cooled engine.",
+        "Mileage" : "35kmpl", 
+        "Rating" : 4,
+        "poster" : "./bike_images/16.jpg"
+}
+]

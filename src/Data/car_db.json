@@ -1,0 +1,132 @@
+    [
+    {
+         "id":1,
+        "vehiclename" : "Ertiga",
+        "Bodystyle" : "Wagon",
+        "Story" : "The Suzuki Ertiga is a series of multi-purpose vehicles (MPV) manufactured by the Japanese carmaker Suzuki since the year 2012. The name Ertiga is coined from R-tiga, a pronunciation of R3 in Indonesian where tiga means three while R stands for row, referencing its three-row seating capacity.",
+        "Rating":2.5,
+        "poster" : "./car_images/1.jpg"
+
+    },
+    {
+        "id": 2,
+        "vehiclename" : "Mahindra Scorpio", 
+        "Bodystyle" : "Sport Utility Vehicle",
+        "Story" : "The Mahindra Scorpio is a rugged and durable SUV with high seating for a commanding view. Its diesel engine provides decent power for both on and off-road adventures.", 
+        "Rating" : 4,
+        "poster" : "./car_images/2.jpg"
+    },
+    {
+        "id": 3,
+        "vehiclename" : "Toyota Fortuner",
+        "Bodystyle" : "Sport Utility Vehicle",
+        "Story" : "The Toyota Fortuner, also known as the Toyota SW4, is a mid-size SUV manufactured by the Japanese automaker Toyota since 2004.  The Fortuner's fame also stems from its exceptional 4X4 and all-wheel-drive (AWD) capabilities, making it well-suited for off-roading adventures, including traversing milder trails.",
+        "Rating" : 5,
+        "poster" : "./car_images/3.jpg"
+    },
+    {
+        "id": 4,
+        "vehiclename" : "Hyundai Santro Xing", 
+        "Bodystyle" : "Micro Car",
+        "Story" : "Hyundai Santro Xing [2008-2015] is a 5 seater Hatchback with the last recorded price of Rs. 3.13 - 4.27 Lakh. It is available in 10 variants, 1086 cc engine option and 2 transmission options : Manual and Automatic.",
+        "Rating" : 3,
+        "poster" : "./car_images/4.jpg"
+    },
+    {
+        "id": 5,
+        "vehiclename" : "Maruti Suzuki Dzire",
+        "Bodystyle" : "Sedan",
+        "Story" : "The Maruti Dzire has 1 Petrol Engine and 1 CNG Engine on offer. The Petrol engine is 1197 cc while the CNG engine is 1197 cc . It is available with Manual & Automatic transmission.",
+        "Rating" : 3,
+        "poster" : "./car_images/5.jpg"
+    },
+    {
+        "id": 6,
+        "vehiclename" : "Hyundai Eon",
+        "Bodystyle" : "Micro Car",
+        "Story" : "The Hyundai Eon is a city car produced by the South Korean manufacturer Hyundai. It was launched on 13 October 2011 in India, March 2012 in the Philippines, June 2012 in Vietnam, and June 2014 in Sri Lanka.",
+        "Rating" : 3,
+        "poster" : "./car_images/6.jpg"
+    },
+    {
+        "id": 7,
+        "vehiclename" : "Mahindra XUV 700",
+        "Bodystyle" : "Sport Utility Vehicle",
+         "Story" : "The Mahindra XUV700 has 1 Diesel Engine and 2 Petrol Engine on offer. The Diesel engine is 2198 cc while the Petrol engine is 1999 cc and 2198 cc . It is available with Automatic & Manual transmission.", 
+         "Rating" : 5,
+        "poster" : "./car_images/7.jpg"
+    },
+    {
+  
+        "id": 8, 
+        "vehiclename" : "Maruti Suzuki Baleno", 
+        "Bodystyle" : "Hatchback",
+        "Story" : "The New Age Baleno by Maruti Suzuki is powered by the advanced 1.2 L K Series Dual Jet, Dual VVT Engine with Idle Start Stop (ISS) to give you a bold and sensational driving experience.",
+        "Rating" : 3,
+        "poster" : "./car_images/8.jpg"
+    },
+    {
+        "id": 9,
+        "vehiclename" : "Toyota Glanza", 
+        "Bodystyle" : "Hatchback",
+        "Story" : "The Toyota Glanza has 1 Petrol Engine and 1 CNG Engine on offer. The Petrol engine is 1197 cc while the CNG engine is 1197 cc . It is available with Manual & Automatic transmission.",
+        "Rating" : 3,
+        "poster" : "./car_images/9.jpg"
+    },
+    {
+        "id": 10,
+        "vehiclename" : "TATA Indica", 
+        "Bodystyle" : "Hatchback",
+        "Story" : "The Tata Indica (from Indian Car) is a B-segment car launched by the Indian manufacturer Tata Motors in 1998. It was the first Indian hatchback with a diesel engine.",
+        "Rating" : 3,
+        "poster" : "./car_images/10.jpg"
+    },
+    {
+        "id": 11,
+        "vehiclename" : "Tata Altroz", 
+        "Bodystyle" : "Hatchback",
+        "Story" : "Designed to provide a comprehensive and all-around safe driving experience, the Tata ALTROZ has acquired a 5-star Global NCAP rating*. 6 airbags help ensure complete and thorough safety for the passengers in case of a collision.",
+        "Rating" : 4,
+        "poster" : "./car_images/11.jpg"
+    },
+    {
+        "id": 12,
+        "vehiclename" : "Volkswagen Polo",
+        "Bodystyle" : "Hacthback",
+        "Story" : "The Volkswagen Polo is a supermini car (B-segment) produced by the German car manufacturer Volkswagen since 1975.",
+        "Rating" : 4,
+        "poster" : "./car_images/12.jpg"
+    },
+    {
+        "id": 13,
+        "vehiclename" : "Skoda Superb",
+        "Bodystyle" : "Hatchback",
+        "Story" : "Skoda Superb Price is ₹ 54 Lakh (ex-showroom). This model is available with 1984 cc engine option. This car is available in Petrol option with Automatic transmission.",
+        "Rating" : 4,
+        "poster" : "./car_images/13.jpg"
+    },
+    {
+        "id": 14,
+        "vehiclename" : "TATA Harrier", 
+        "Bodystyle" : "Sport Utility Vehicle",
+        "Story" : "The Harrier, a large and muscular SUV based on a Land Rover platform, boasts a five-star safety rating.  With its powerful engine and balanced road dynamics, driving it is an engaging experience.",
+        "Rating" : 4,
+        "poster" : "./car_images/14.jpg"
+    },
+    {
+        "id": 15,
+        "vehiclename" : "MG Gloster", 
+        "Bodystyle" : "Sport Utility Vehicle",
+        "Story" : "Gloster car is available in 15 variants and 1 fuel options - diesel. Gloster diesel models comes with 1996cc engine which generates a peak power of 159 bhp @ 4000 rpm.",
+        "Rating" : 5,
+        "poster" : "./car_images/15.jpg"
+    },
+    {
+        "id": 16,
+        "vehiclename" : "Hyundai Aura", 
+        "Bodystyle" : "Sedan",
+        "Story" : "The Aura is a compact sedan featuring comfortable seats and an airy, well-finished cabin. Additionally, it boasts good ground clearance for varied driving conditions.",
+        "Rating" : 3,
+        "poster" : "./car_images/16.jpg"
+    }
+    ]
